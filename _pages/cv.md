@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in , Shanghai Jiao Tong University, 2012
+* M.S. in Jekyll, Shanghai Jiao Tong University, 2014
 
 Work experience
 ======
@@ -42,17 +41,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Talks)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.talks %})
+
+[comment]: <> (    {% include archive-single-talk-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Teaching)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.teaching %})
+
+[comment]: <> (    {% include archive-single-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
 Service and leadership
 ======
