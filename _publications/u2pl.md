@@ -5,7 +5,7 @@ permalink: /publication/u2pl
 excerpt: ' '
 date: 2022-06-22
 venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/pdf/2203.03884.pdf'
 bibtex: '@inproceedings{wang2022semi,
   title={Semi-Supervised Semantic Segmentation Using Unreliable Pseudo Labels},
   author={Wang, Yuchao and Wang, Haochen
@@ -18,5 +18,5 @@ bibtex: '@inproceedings{wang2022semi,
 }'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
 
