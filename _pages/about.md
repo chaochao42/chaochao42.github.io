@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in Department of Automation at Shanghai Jiao Tong University advised by Prof. [Xinyi Le](https://scholar.google.com/citations?hl=en&user=MGZyMf4AAAAJ&view_op=list_works&sortby=pubdates).
+I am a master student in Department of Automation at Shanghai Jiao Tong University.
 
 My research interests lie in **Neural 3D Reconstruction(both novel view synthesis and 3d reconstruction)**, **semi-supervised learning** for data-efficient computer vision. I am very passionate about both research and engineering and willing to collaborate with others.
 
